@@ -1,16 +1,39 @@
-## Hi there 👋
+# Idriss Oumar Aladjmichi 👋
 
-<!--
-**idriss2025/idriss2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Programming Student  
+🏫 Gümüşhane University  
+📍 Turkey  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/idriss-oumar-mahamat-3618933a2/
+
+- 💻 GitHub:  
+  https://github.com/idriss2025
+
+- 📸 Instagram:  
+  https://www.instagram.com/idriss_aladjmichi
+
+- 📘 Facebook:  
+  https://www.facebook.com/share/1HHv3PCfj2/
+
+- 📲 Telegram:  
+  https://t.me/idriss_aladjmicji
+
+- 💬 WhatsApp:  
+  https://wa.me/message/C4LTLQZZSVB2G1
+
+- ✉️ Email:  
+  idrissaladjmichi@gmail.com
+
+---
+
+## 🛠 Skills
+- Python  
+- HTML & CSS  
+- Git & GitHub  
+- Basic Django  
+- Problem Solving
